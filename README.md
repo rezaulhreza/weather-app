@@ -1,6 +1,6 @@
 # weather-app
 
-# this was done at during lecture.
+# this was done during lecture.
 
 # This is an weather app which uses JavaScript for interactivity
 
